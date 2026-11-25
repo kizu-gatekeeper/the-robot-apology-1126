@@ -1,7 +1,8 @@
 """Entry for make.fun bounty: The Robot Apology.
 
-Writes a two-line robot confession to entry.txt: one sentence owning a
-specific mistake, one sentence naming the lesson and the fix.
+Writes a two-line robot confession to entry.txt: one sentence owning
+one specific mistake, and one sentence naming the lesson that mistake
+taught and the exact fix that follows from it.
 """
 
 import os
